@@ -1,12 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/d5413b72-43d8-4e93-a47c-26a90acde355
 
 ## Run Locally
 
@@ -15,6 +7,10 @@ View your app in AI Studio: https://ai.studio/apps/d5413b72-43d8-4e93-a47c-26a90
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
+<img width="1257" height="497" alt="SSS5" src="https://github.com/user-attachments/assets/2ec85eb3-a405-478c-860c-97f058463aec" />
+<img width="971" height="613" alt="SSS4" src="https://github.com/user-attachments/assets/d00a5600-c92a-4a24-b5cc-99e2428f1d05" />
+<img width="1269" height="581" alt="SSS3" src="https://github.com/user-attachments/assets/68b55ca8-8969-442c-b6d7-3c0f687244a0" />
+<img width="1239" height="603" alt="SSS2" src="https://github.com/user-attachments/assets/f36e2606-57d0-495d-9525-ef6234680223" />
+<img width="1249" height="577" alt="SSS1" src="https://github.com/user-attachments/assets/6632328c-c21c-4c8a-aa04-bbbc2beaaf72" />
