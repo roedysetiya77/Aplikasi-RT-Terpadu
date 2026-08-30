@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Jimpitan Spreadsheet",
+  "description": "Aplikasi Jimpitan, Keuangan RT (Buku Kas & Tutup Buku), dan Arisan RT berbasis Google Spreadsheet dengan backend Google Apps Script dan frontend React.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
