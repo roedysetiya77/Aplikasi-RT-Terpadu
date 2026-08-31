@@ -67,7 +67,7 @@ import {
   ShieldAlert
 } from 'lucide-react';
 
-export const DEFAULT_WEBAPP_URL = 'https://script.google.com/macros/s/Your ID Web DEPLOY/exec';
+export const DEFAULT_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbz5iJ9R3TyOhblnZOf92M9gYODll9isMrPIVLMaq7m_9f1IZrqghctHykUJGGJrDk9BsA/exec';
 
 export default function App() {
   // Load configuration from localStorage or default embedded URL
