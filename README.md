@@ -9,11 +9,10 @@
    `npm install`
 2. Run the app:
    `npm run dev`
-3. Jalankan Aplikasi Login admin, Pass : admin123456
-4. klik Menu : Panduan & Integrasi
-5. Lihat Panduan & Integrasi untuk Koneksi Database Spreadsheet nya
+3. klik Menu : Panduan & Integrasi
+4. Lihat Panduan & Integrasi untuk Koneksi Database Spreadsheet nya
    <img width="1257" height="607" alt="SSS6" src="https://github.com/user-attachments/assets/07bfda63-65ba-4bdf-9f1b-5e76da631476" />
-6. Copy Paste kode GAS ke Apps Script kamu
+5. Copy Paste kode GAS ke Apps Script kamu
    <img width="1243" height="603" alt="SSS7" src="https://github.com/user-attachments/assets/437fa802-7fb5-47ed-8522-82af060de459" />
 
 
